@@ -1,0 +1,20 @@
+body {
+    background-color: #75d0c2;
+}
+table {
+    text-align: center;
+    width: 90%;
+}
+ul {
+    list-style-type: none;
+}
+#header {
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    text-shadow: #75d0c2;
+}
+#term {
+    font-size: large;
+    font-family: sans-serif;
+}
